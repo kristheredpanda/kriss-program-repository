@@ -1,10 +1,10 @@
 body {
-  font-family: 'Nunito', sans-serif;
   background-color: black;
   color: white;
 }
 
 h1 {
+  font-family: 'Nunito', sans-serif;
   font-size: 30px;
 }
 
