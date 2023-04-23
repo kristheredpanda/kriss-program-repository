@@ -8,6 +8,10 @@ h1 {
   font-size: 30px;
 }
 
+h3 {
+  margin: 5px;
+}
+
 .clutt35icon {
   float: left;
   margin: 10px;
@@ -43,6 +47,30 @@ h1 {
   margin: 10px;
 }
 
-h3 {
-  margin: 5px;
+.clutt35div {
+  float: bottom;
+}
+
+.lixodiv {
+  float: bottom;
+}
+
+.memzdiv {
+  float: bottom;
+}
+
+.monoxidediv {
+  float: bottom;
+}
+
+.furryvirusdiv {
+  float: bottom;
+}
+
+.quantizerdiv {
+  float: bottom;
+}
+
+.salinewindiv {
+  float: bottom;
 }
